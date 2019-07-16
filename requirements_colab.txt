@@ -1,2 +1,4 @@
 googledrivedownloader
 youtube-dl
+open3d-python
+
