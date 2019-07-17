@@ -3,7 +3,7 @@
 For the codelab, we'll be running Jupyter notebooks in Google Colab.
 1) [Semantic Segmentation Hello World!](https://github.com/kylehounslow/bmw_2019/blob/master/notebooks/DeepLab_Demo.ipynb)    
 2) [Object Detection and Measurement](https://github.com/kylehounslow/bmw_2019/blob/master/notebooks/object_measurement.ipynb) 
-3) [Training a ConvNet Hello World!](https://github.com/kylehounslow/bmw_2019/blob/master/notebooks/tf_estimator_mnist.ipynb) *(If time permits)*
+3) [tf.Estimator Hello World!](https://github.com/kylehounslow/bmw_2019/blob/master/notebooks/tf_estimator_mnist.ipynb) *(If time permits)*
 
 ## Bonus  
 ### Colab Notebooks
