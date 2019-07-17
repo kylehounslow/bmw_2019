@@ -27,7 +27,14 @@ class Detection(object):
         self.label = label
         self.color = color
         self.score = score
-
+    def __repr__(self):
+        dict_repr = {
+        'bbox': self.bbox,
+        'label': self.label,
+        'color': self.color,
+        'score': self.score
+        }
+        return str(dict_repr)
 
 class YOLO(object):
     _defaults = {
