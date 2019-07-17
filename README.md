@@ -1,9 +1,9 @@
 # BMW Summer School Workshop on Computer Vision
 ## Colab Notebooks
 For the codelab, we'll be running Jupyter notebooks in Google Colab.
-1) [Semantic Segmentation Hello World!](https://github.com/kylehounslow/bmw_2019/blob/master/notebooks/DeepLab_Demo.ipynb)    
-2) [Object Detection and Measurement](https://github.com/kylehounslow/bmw_2019/blob/master/notebooks/object_measurement.ipynb) 
-3) [tf.Estimator Hello World!](https://github.com/kylehounslow/bmw_2019/blob/master/notebooks/tf_estimator_mnist.ipynb) *(If time permits)*
+1) [Semantic Segmentation Hello World!](https://colab.research.google.com/github/kylehounslow/bmw_2019/blob/master/notebooks/DeepLab_Demo.ipynb)    
+2) [Object Detection and Measurement](https://colab.research.google.com/drive/17Kga54mSXbZbuiyFfX9gQDzKMVxUQgbC) 
+3) [tf.Estimator Hello World!](https://colab.research.google.com/github/kylehounslow/bmw_2019/blob/master/notebooks/tf_estimator_mnist.ipynb) *(If time permits)*
 
 ## Bonus  
 ### Colab Notebooks
